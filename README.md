@@ -5,7 +5,7 @@
 A high-fidelity collection of UI components designed for Security Operations Centers (SOC), Threat Intelligence dashboards, and Network Topology diagrams within the Athena Board ecosystem.
 
 ## 🚀 Live Preview
-**[View the Landing Page & Asset Showcase](https://joshndala.github.io/YOUR-REPO-NAME)** 
+**[View the Landing Page & Asset Showcase](https://joshndala.github.io/whiteboard-cybersecurity-kit/)** 
 
 ## 📂 Project Overview
 This repository hosts the **showcase landing page** (`index.html`) for the Cybersecurity UI Kit. The kit provides 12 production-ready "Smart Prefabs" optimized for whiteboard environments, featuring:
