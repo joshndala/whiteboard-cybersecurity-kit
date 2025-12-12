@@ -1,7 +1,5 @@
 # Athena Board: Cybersecurity UI Kit
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![Theme](https://img.shields.io/badge/theme-Dark%20Mode-22c55e.svg) ![Status](https://img.shields.io/badge/status-Production%20Ready-green.svg)
-
 A high-fidelity collection of UI components designed for Security Operations Centers (SOC), Threat Intelligence dashboards, and Network Topology diagrams within the Athena Board ecosystem.
 
 ## 🚀 Live Preview
